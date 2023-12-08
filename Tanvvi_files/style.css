@@ -1647,7 +1647,7 @@ textarea {
 .mission_section .mission_box{
     width: 100%;
     background-color: var(--e-global-color-white);
-    border-radius:10px; 
+    border-radius:10px!important; 
     /* 200px 0 200px 0 */
     box-shadow: 1px 1px 50px rgb(0 0 0 / 7%);
 }
@@ -1722,7 +1722,7 @@ textarea {
 .vision_section .vision_box{
     width: 100%;
     background-color: var(--e-global-color-white);
-    border-radius: 10px;
+    border-radius: 10px!important;
     /* 200px 0 200px 0 */
     box-shadow: 1px 1px 50px rgb(0 0 0 / 7%);
 }
